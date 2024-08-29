@@ -1,2 +1,7 @@
 # odin-recipes
-# To define what actions have been performed
+
+# Created 3 recipes
+
+->Lemon Cake
+->Stuffed Burgers
+->Iced Hazelenut Coffee
