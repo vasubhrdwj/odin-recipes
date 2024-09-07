@@ -1,0 +1,24 @@
+* {
+  background-color: #b4c5db;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  color: #728495;
+}
+div.burger-image {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 800px;
+}
+
+li {
+  padding: 1.5px;
+  color: #263a47;
+}

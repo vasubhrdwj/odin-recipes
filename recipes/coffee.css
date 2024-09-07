@@ -1,0 +1,22 @@
+* {
+  background-color: #6d2932;
+  color: #e8d8c4;
+}
+
+h1 {
+  text-align: center;
+}
+.coffee-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+li {
+  padding: 1.5px;
+}

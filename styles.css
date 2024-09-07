@@ -1,0 +1,34 @@
+* {
+  background-color: #b9937c;
+  color: #262626;
+}
+
+h1 {
+  color: #f9ecdf;
+  font-family: "CopperPlate", Helvetica;
+  font-weight: 800;
+  padding-bottom: 20px;
+}
+
+li {
+  padding: 5px;
+  padding-bottom: 10px;
+}
+.food {
+  color: #050405;
+  font-size: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.food.burger {
+  font-size: 20px;
+  color: #f9ecdf;
+}
+
+.drinks {
+  color: #201818;
+  font-weight: 800;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
