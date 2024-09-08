@@ -1,34 +1,55 @@
 * {
-  background-color: #b9937c;
-  color: #262626;
+  background-color: #aac7d8;
+  color: #dfebf6;
 }
 
 h1 {
-  color: #f9ecdf;
+  color: #29353c;
+  text-align: center;
   font-family: "CopperPlate", Helvetica;
   font-weight: 800;
   padding-bottom: 20px;
 }
 
-li {
-  padding: 5px;
-  padding-bottom: 10px;
+.list-items {
+  margin-top: 50px;
+  padding: 20px;
+  list-style: none;
+  background-color: #aac7d8;
+  /* background-color: #957040; */
 }
-.food {
-  color: #050405;
-  font-size: 20px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-}
-
-.food.burger {
-  font-size: 20px;
-  color: #f9ecdf;
+li,
+a {
+  background-color: #44576d;
+  margin: 20px;
+  text-decoration:none;
 }
 
-.drinks {
-  color: #201818;
-  font-weight: 800;
+.lemon-cake {
   font-size: 20px;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  border: 5px solid #44576d;
+  /* margin: 70px 400px 30px 0px; */
+  display: block;
+  padding: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 40px auto;
+}
+.burgers {
+  display: block;
+  border: 5px solid #44576d;
+  padding: 20px;
+  text-align: end;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* margin: 30px 400px 30px 0px; */
+  margin: 40px auto;
+}
+.coffee {
+  display: block;
+  border: 5px solid #44576d;
+  padding: 20px;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  /* margin: 30px 400px 30px 0px; */
+  margin: 40px auto;
 }
